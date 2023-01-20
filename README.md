@@ -1,8 +1,8 @@
 ## Bem-vindo(a) ao perfil de Vitoria-Araujo 😁
 
  <div>
-     <a href="https://github.com/Vitoria-Araujo%22%3E <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitoria-Araujo&theme=midnight-purple&show_icons=true)" />
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitoria-Araujo&layout=compact&langs_count=6&theme=midnight-purple" /> </div> 
+     <a href="https://github.com/Vitoria-Araujo%22%3E <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitoria-Araujo&theme=vision-friendly-dark&show_icons=true)" />
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitoria-Araujo&layout=compact&langs_count=6&theme=vision-friendly-dark" /> </div> 
  </div>
  
 
