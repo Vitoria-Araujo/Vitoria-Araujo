@@ -15,11 +15,15 @@ jobs:
           outputs: |
             /output/github-contribution-grid-snake.svg
 
-      - name: Publicar cobrinha
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: output
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+              - name: Publicar cobrinha
+                uses: crazy-max/ghaction-github-pages@v3
+                with:
+                  target_branch: output
+                  build_dir: output
+                  commit_message: "Atualizando cobrinha"
+                  fqdn: ""
+                  keep_history: true
+                  force_orphan: false
+                env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+              
