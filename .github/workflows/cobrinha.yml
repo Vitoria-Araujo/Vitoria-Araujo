@@ -1,25 +1,25 @@
-name: Snake animation
+name: Gerar cobrinha
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Executa todo dia à meia-noite
-  workflow_dispatch:     # Permite rodar manualmente
+    - cron: "0 0 * * *" # roda todo dia à meia-noite
+  workflow_dispatch: # permite executar manualmente
 
 jobs:
-  generate:
+  gerar-cobrinha:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake SVG
-        uses: Platane/snk@v3
+      - uses: Platane/snk@v3
         with:
           github_user_name: Vitoria-Araujo
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            ./output/github-contribution-grid-snake.svg
 
-      - name: Push to output branch
+      - name: Publicar cobrinha
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
