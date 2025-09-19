@@ -8,7 +8,7 @@
 <div>
    <a href="https://github.com/Vitoria-Araujo">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitoria-Araujo&layout=compact&theme=chartreuse-dark"/> 
-   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vitoria-Araujo&theme=midnight_purple"/> 
+   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vitoria-Araujo&theme=highcontrast"/> 
      <br>
      <br>
    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vitoria-Araujo&theme=midnight_purple"/> 
