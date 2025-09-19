@@ -1,6 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ff79c6"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FF1493"/>
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ff79c6&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+Student+Of+Information+Systems;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=FF1493&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+Student+Of+Information+Systems;Be+welcome!" alt="Typing SVG"/>
 </div>
 ## Bem-vindo(a) ao perfil de Vitoria-Araujo 😁
 
@@ -35,9 +35,6 @@
 <div align="center">
   <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FVitoria-Araujo&s=20&c=ff00bb&bg=00000000&no=2&ff=linebeam&tb=Profile+Visits%3A+&ta=" /></p> 
 </div>
-
-
-
 
 
 
