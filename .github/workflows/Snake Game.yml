@@ -1,38 +1,27 @@
 name: Snake Game
-
 on:
   schedule:
-    # Atualiza a cada 5 horas
     - cron: "0 */5 * * *"
   workflow_dispatch:
-
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-
-      # Clona o repositório
       - uses: actions/checkout@v3
-
-      # Gera os arquivos do Snake Game
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: seunome # <-- Substitua pelo seu usuário
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
+          github_user_name: Vitoria-Araujo
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
       - run: git status
-
-      # Faz push das mudanças na branch master
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
           force: true
-
-      # Publica o conteúdo na branch output (para GitHub Pages)
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
