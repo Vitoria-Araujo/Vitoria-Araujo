@@ -4,8 +4,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=FF1493&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+Student+Of+Information+Systems;Be+welcome!" alt="Typing SVG"/>
 </div>
 
-## Bem-vindo(a) ao perfil de Vitoria-Araujo 😁
+## ## Welcome to Vitoria-Araujo's profile 😁
 
+💻 Information Systems student | 🇧🇷 Brazil  
+🚀 Always learning something new!
 <div>
   <a href="https://github.com/Vitoria-Araujo">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitoria-Araujo&layout=compact&theme=chartreuse-dark"/> 
