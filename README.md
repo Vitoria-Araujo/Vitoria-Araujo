@@ -8,6 +8,7 @@
 
 💻 Information Systems student | 🇧🇷 Brazil  
 🚀 Always learning something new!
+
 <div>
   <a href="https://github.com/Vitoria-Araujo">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitoria-Araujo&layout=compact&theme=chartreuse-dark"/> 
